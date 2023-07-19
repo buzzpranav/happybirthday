@@ -3,7 +3,7 @@
   "name": "Sudeshna",
   "greetingText": ":3",
   "wishText": "May your day be filled with surprises, joy, and an unlimited supply of cupcakes!",
-  "imagePath": "img/steganography.png",
+  "imagePath": "../img/steganography.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Many many happy blah blah...",
   "sendButtonLabel": "Send",
